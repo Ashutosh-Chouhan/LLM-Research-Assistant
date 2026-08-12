@@ -1,0 +1,21 @@
+# Core
+python-dotenv
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Google Gemini (chat + embeddings)
+langchain-google-genai
+
+# PDF reading
+pypdf
+
+# Vector database
+langchain-chroma
+chromadb
+
+# UI
+streamlit

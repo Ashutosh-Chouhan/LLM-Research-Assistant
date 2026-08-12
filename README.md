@@ -1,5 +1,7 @@
 # LLM Research Assistant
 
+<img width="1364" height="675" alt="image" src="https://github.com/user-attachments/assets/f2dcef47-f7c5-4be7-b1d5-101787ac0eb4" />
+
 A Retrieval-Augmented Generation (RAG) application that allows users to upload a research paper in PDF format and ask questions based on its content.
 
 Instead of relying solely on the LLM's internal knowledge, the application retrieves relevant information directly from the uploaded document and uses it as context to generate grounded answers. Each answer also includes the relevant page number as a citation.
